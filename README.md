@@ -1,4 +1,4 @@
-# nextcli
+# NextCLI
 
 NextCLI is a simple, straightforward command-line tool designed to accelerate Next.js and React development. It automates the creation of standard boilerplate files, specifically tailored for projects using TypeScript and the Atomic Design methodology.
 
