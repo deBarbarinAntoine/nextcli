@@ -1,0 +1,24 @@
+- name: fileType
+  values:
+    - key: atom
+      value: 'components/atoms'
+    - key: molecule
+      value: 'components/molecules'
+    - key: organism
+      value: 'components/organisms'
+    - key: template
+      value: 'components/templates'
+
+    - key: model
+      value: 'lib/models'
+    - key: provider
+      value: 'lib/providers'
+    - key: repository
+      value: 'lib/repositories'
+    - key: service
+      value: 'lib/services'
+    - key: util
+      value: 'lib/utils'
+
+    - key: page
+      value: 'page'

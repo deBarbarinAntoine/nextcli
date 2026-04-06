@@ -1,0 +1,14 @@
+# IDE folders
+.idea/
+.vscode/
+
+# Binaries
+build/
+nextcli
+
+# Environment variables
+.env*
+!.env.example
+
+# Libraries
+vendor/
